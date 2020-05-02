@@ -8,7 +8,7 @@ This is a example code to demostrate how to use Cookie. It requires Maven to bui
 
 3. Open the project as Maven Project in IntelliJ
 
-## Useage
+## Usage
 
 1. Run `CookieServer.Main` to start the server
 2. Vist localhost:8090/display to see your visit history, if you have been visited the web , you are allow to go to localhost:8090/clear to clear your visit history, it implemented in `CookieVisitsServlet`
